@@ -1,0 +1,7 @@
+SELECT COLUMN_1_NAME, COLUMN_2_NAME FROM TABLE NAME;
+
+#Like
+
+SELECT NAME, ID FROM STUDENT;
+
+#where name, id is column name and Student is Table name

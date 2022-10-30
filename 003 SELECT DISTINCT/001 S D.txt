@@ -1,0 +1,4 @@
+SELECT DISTINCT ENAME FROM EMP;
+
+
+#It will show just Ename column from Emp table
