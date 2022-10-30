@@ -1,0 +1,4 @@
+#REMEBER MR. MZ
+#column to be modified must be empty to change datatype
+
+ALTER TABLE FOODGUN MODIFY ORIGIN NUMBER;
